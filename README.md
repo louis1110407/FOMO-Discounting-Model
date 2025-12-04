@@ -26,4 +26,4 @@ Our analysis reveals a structural convergence: the risk profile of the "Propagan
 **Key Contribution:**
 This protocol provides a mathematical framework to decouple "Fear of Missing Out" (Greed/Panic) from "Business Risk," offering a new lens for risk parity and asset allocation in the AI era.
 
-![Chart Proof](fomo_discount_chart.png)
+![Chart Proof](charts.png)
