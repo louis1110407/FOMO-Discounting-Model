@@ -1,8 +1,6 @@
-  ## **[Draft for Release]**
-
 **Project Name:** The FOMO Discount Protocol
-**Author:** [Your Name]
-**Date:** Oct 2025
+**Author:** [Lo, Yen-Tsu (Louis Lo)]
+**Date:** DEC 2025
 
 **Title:**
 **Tech as Utility: Unveiling the Structural Stability of Nasdaq-100 via Propaganda-Adjusted Volatility (PAV)**
